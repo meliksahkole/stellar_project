@@ -26,7 +26,7 @@ Our vision extends beyond payments - we're building the foundation for a decentr
 
 The platform will eventually support multiple cryptocurrencies, cross-chain payments, and smart contract-based loyalty programs, making it the go-to solution for modern travelers and forward-thinking hotels worldwide.
 
-## ChatGPT Prompt 1 - Project Description:
+##Project Description:
 
 Staylar Payment is a decentralized hotel payment platform built on Stellar blockchain that revolutionizes how guests pay for hotel accommodations. The system features a Rust-based smart contract that processes payments, manages reservations, and maintains transaction history. Users connect their Freighter wallet to make instant payments in XLM or USDC, while hotels receive verifiable, immutable payment records. The Next.js frontend provides an intuitive interface for both guests and hotel staff, featuring real-time payment tracking, reservation management, and transaction history. Built with security and user experience in mind, Staylar Payment eliminates traditional payment processing fees, reduces settlement times from days to seconds, and provides complete transparency through blockchain technology.
 
