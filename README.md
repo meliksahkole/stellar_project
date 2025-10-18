@@ -4,7 +4,7 @@
 **Staylar Payment** - A decentralized hotel payment platform built on Stellar blockchain
 
 ## Who Are You:
-- **Name**: Melik
+- **Name**: Melikşah Köle 
 - **Role**: Blockchain Developer & Full-Stack Engineer
 - **Expertise**: Stellar Smart Contracts, Rust, Next.js, TypeScript
 - **Focus**: Decentralized Finance (DeFi) and Payment Solutions
@@ -30,11 +30,11 @@ The platform will eventually support multiple cryptocurrencies, cross-chain paym
 
 Staylar Payment is a decentralized hotel payment platform built on Stellar blockchain that revolutionizes how guests pay for hotel accommodations. The system features a Rust-based smart contract that processes payments, manages reservations, and maintains transaction history. Users connect their Freighter wallet to make instant payments in XLM or USDC, while hotels receive verifiable, immutable payment records. The Next.js frontend provides an intuitive interface for both guests and hotel staff, featuring real-time payment tracking, reservation management, and transaction history. Built with security and user experience in mind, Staylar Payment eliminates traditional payment processing fees, reduces settlement times from days to seconds, and provides complete transparency through blockchain technology.
 
-## ChatGPT Prompt 2 - Vision Statement:
+##  Vision Statement:
 
 Staylar Payment envisions a future where hotel payments are as simple and secure as sending a message. We're building a global payment infrastructure that connects travelers and hotels through blockchain technology, eliminating traditional banking barriers and creating a more inclusive travel economy. Our platform will democratize access to quality accommodations by reducing payment processing costs and enabling instant, cross-border transactions. We believe that by making blockchain technology accessible to everyday users, we can create a more efficient, transparent, and trustworthy hospitality industry. Our long-term vision includes supporting multiple cryptocurrencies, implementing smart contract-based loyalty programs, and expanding to other travel services, ultimately creating a comprehensive decentralized travel ecosystem.
 
-## ChatGPT Prompt 3 - Software Development Plan:
+## Software Development Plan:
 
 **Step 1: Smart Contract Development**
 - Develop Rust-based payment contract with core functions: pay_hotel, get_last_payment, and payment history tracking
@@ -66,11 +66,11 @@ Staylar Payment envisions a future where hotel payments are as simple and secure
 - Deploy frontend to production environment
 - Conduct final testing and security review
 
-## ChatGPT Prompt 4 - Personal Story Summary:
+## Personal Story Summary:
 
 As a blockchain developer passionate about real-world applications, I created Staylar Payment after experiencing the frustrations of traditional hotel payment systems during my travels. I witnessed how high fees, slow processing times, and currency conversion issues created barriers for both travelers and hotel owners. This inspired me to build a solution that leverages Stellar's fast, low-cost blockchain to create a seamless payment experience. My goal is to make blockchain technology accessible to everyday users while solving real problems in the hospitality industry.
 
-## ChatGPT Prompt 5 - Installation Guide:
+## Installation Guide:
 
 ### Prerequisites
 - Node.js (v18 or higher)
@@ -154,4 +154,4 @@ We welcome contributions! Please read our contributing guidelines and submit pul
 
 ## Support
 
-For support, email support@staylar.com or join our Discord community.
+For support, email vedatmeliksah@gmail.com 
